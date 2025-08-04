@@ -6,5 +6,5 @@ tags:
 
 일단 적어
 
-![Uploading file...wayz2]()
+https://cdn.jsdelivr.net/gh/qkrdlwns/obsidian-image@main/image/
 

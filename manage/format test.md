@@ -13,7 +13,7 @@
 int main(){return;}
 ```
 $$ \vec{t} + 1234 $$
- [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=0gcJCfwAo7VqN5tD)
+[link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=0gcJCfwAo7VqN5tD)
 
 - bullet
 1. number

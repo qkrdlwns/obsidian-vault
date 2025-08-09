@@ -1,6 +1,6 @@
 ---
 sorting-spec: "order-asc: a-z"
-tags:
+tags: []
 ---
 # 규칙
 

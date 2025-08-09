@@ -1,4 +1,16 @@
-사용 프로그램
-- Ticktick, Obsidian (생산성)
-![[뇌과학적 최고의 하루 일과 D20250805_1#몰입시기 3타임]]
+# tstras
+## trrtrs
+### rstrsst
+#### strsatsr
+##### strsats
+###### rtrstsr
+
+**tstrastsr**
+*tsrtrs*
+~~tsrtasst~~
+==trstrst==
+	
+- tratsrt
+1. tartrs
+[trtrs](tsrtars)
 

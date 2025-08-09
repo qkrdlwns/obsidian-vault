@@ -6,7 +6,7 @@ tags:
   - status/archived
   - status/someday
 ---
-# tags
+
 - status (상태)
 	- wip (Work In Progress, 작업중)
 	- archived (이 정도면 됐다~ 아카이빙!)

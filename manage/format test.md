@@ -1,18 +1,15 @@
-# tstras
-## trrtrs
-### rstrsst
-#### strsatsr
-##### strsats
-###### rtrstsr
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 ---
-**tstrastsr**
-*tsrtrs*
-~~tsrtasst~~
-==trstrst==
-```c++
-int main(){return;}
-```
-$$ \vec{t} + 1234 $$
+# Test
+**bold**
+*italic*
+~~strikethrough~~
+==highlight==
 [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=0gcJCfwAo7VqN5tD)
 
 - bullet
@@ -24,16 +21,25 @@ block link 1 ^1
 
 [[format test#^1|block link 1]]
 
+hi~~ block embed 2 ^2
+
+![[format test#^2|block 2]]
 [^1]
 [^1]: tsrstr
+---
 
-| 1   | 2   |
-| --- | --- |
-| 3   | 4   |
+```c++
+int main(){return;}
+```
+$$ \vec{t} + latex $$
+
+| table | 2   | 1   | 1   |
+| ----- | --- | --- | --- |
+| 3     | 4   | 1   | 1   |
+| 1     | 1   | 1   | 1   |
 
 > [!NOTE] Title
 > Contents
 
 
----
 

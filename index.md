@@ -3,7 +3,7 @@ banner_icon:
 banner: "![[brain_schedule_2.webp]]"
 ---
 
-hello blog!
+hello index!
 
 obsidian의 목적
 > my second brain`

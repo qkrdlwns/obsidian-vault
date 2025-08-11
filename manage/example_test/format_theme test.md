@@ -19,11 +19,11 @@
 
 block link 1 ^1
 
-[[format test#^1|block link 1]]
+[[format_theme test#^1|block link 1]]
 
 hi~~ block embed 2 ^2
 
-![[format test#^2|block 2]]
+![[format_theme test#^2|block 2]]
 [^1]
 [^1]: tsrstr
 ---

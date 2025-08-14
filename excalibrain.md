@@ -22,7 +22,7 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 special tags ^BlHNtYlF
 
 ## Element Links
-8e7expGF: [[manage/special tags.md]]
+8e7expGF: [[special_tags]]
 
 %%
 ## Drawing
